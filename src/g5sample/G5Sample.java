@@ -15,7 +15,9 @@ public class G5Sample {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       System.out.println("Hello Sohai");
+       System.out.println("Hello Sohai2");
+       
     }
     
 }
