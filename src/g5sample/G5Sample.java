@@ -17,6 +17,7 @@ public class G5Sample {
     public static void main(String[] args) {
        System.out.println("Hello Sohai");
        System.out.println("Hello Sohai2");
+       System.out.println("Diu lei");
        
     }
     
